@@ -22,4 +22,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+        <repository>
+            <id>my-example-site-ftp</id>
+            <url>\\gen-srv.ca.com\Users\vijda01\Pawan</url>
+        </repository>
+    </distributionManagement>
 </project>
